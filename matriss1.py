@@ -59,6 +59,7 @@ for i in range(len(matrix)):
                 else:
                     matrix[i][j] = 0
 
+
 print(matrix)
 
 
