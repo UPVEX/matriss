@@ -1,4 +1,4 @@
-matrix = [
+matrix =[
     [1,0,0,1,1,0],
     [0,1,0,0,1,0],
     [0,0,1,0,1,1],
@@ -60,3 +60,5 @@ for i in range(len(matrix)):
                     matrix[i][j] = 0
 
 print(matrix)
+
+
